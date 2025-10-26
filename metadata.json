@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Multi-Tool",
+  "description": "An all-in-one application showcasing Gemini's capabilities, including image editing, chat, grounded search, and advanced reasoning.",
+  "requestFramePermissions": []
+}
